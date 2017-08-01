@@ -1,0 +1,18 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+    "editor.tabSize": 2,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderWhitespace": "all",
+    "editor.renderIndentGuides": true,
+    "workbench.colorTheme": "Monokai",
+    "window.openFoldersInNewWindow": "on",
+    "emmet.syntaxProfiles": {
+      "vue-html": "html",
+      "vue": "html"
+    },
+    "fileheader.Author": "Mona",
+    "fileheader.LastModifiedBy": "Mona",
+    "window.zoomLevel": 0,
+    "vsicons.dontShowNewVersionMessage": true,
+    "typescript.tsdk": "node_modules/typescript/lib" // typescript 相关配置
+  }
